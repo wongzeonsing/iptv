@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="jade" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/jade.png" group-title="香港",翡翠台
+https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-id="jade" tvg-name="翡翠台 4K" tvg-logo="https://epg.112114.xyz/logo/jade.png" group-title="香港",翡翠台 4K
+https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-id="pearl" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/pearl.png" group-title="香港",明珠台
+https://php.jdshipin.com:2096/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 tvg-id="pearl" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/pearl.png" group-title="香港",明珠台
+https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
+#EXTINF:-1 tvg-id="tvbnews" tvg-name="無綫新聞台" tvg-logo="https://epg.112114.xyz/logo/tvbnews.png" group-title="香港",無綫新聞台
+https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
+#EXTINF:-1 tvg-id="tvbnews" tvg-name="無綫新聞台" tvg-logo="https://epg.112114.xyz/logo/tvbnews.png" group-title="香港",無綫新聞台
+https://cdn.haititivi.com/website/haitinews/index.m3u8
+#EXTINF:-1 tvg-id="tvbplus" tvg-name="TVB Plus" tvg-logo="https://epg.112114.xyz/logo/tvbplus.png" group-title="香港",TVB Plus
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 tvg-id="viutv" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/viutv.png" group-title="香港",ViuTV
+https://php.jdshipin.com:2096/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-id="hoy" tvg-name="HOY TV" tvg-logo="https://epg.112114.xyz/logo/hoy.png" group-title="香港",HOY TV
+http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
+#EXTINF:-1 tvg-id="hoy" tvg-name="HOY TV" tvg-logo="https://epg.112114.xyz/logo/hoy.png" group-title="香港",HOY TV
+https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
+#EXTINF:-1 tvg-id="hoyi" tvg-name="HOY 資訊台" tvg-logo="https://epg.112114.xyz/logo/hoyi.png" group-title="香港",HOY 資訊台
+http://cdn.163189.xyz/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-id="rthk31" tvg-name="港台電視31" tvg-logo="https://epg.112114.xyz/logo/rthk31.png" group-title="香港",港台電視31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-id="rthk32" tvg-name="港台電視32" tvg-logo="https://epg.112114.xyz/logo/rthk32.png" group-title="香港",港台電視32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 tvg-id="nownews" tvg-name="Now 新聞台" tvg-logo="https://epg.112114.xyz/logo/nownews.png" group-title="香港",Now 新聞台
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-id="cable" tvg-name="有線新聞台" tvg-logo="https://epg.112114.xyz/logo/cable.png" group-title="香港",有線新聞台
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 tvg-id="cable" tvg-name="有線新聞台" tvg-logo="https://epg.112114.xyz/logo/cable.png" group-title="香港",有線新聞台
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w1352095563.m3u8
