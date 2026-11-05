@@ -1,3 +1,15 @@
+# 香港/境外 IPTV 源 —— 走代理才能访问
+# jdshipin 家族：大陆 2096 端口被墙，80 端口返回拦截页
 DOMAIN-SUFFIX,jdshipin.com
 DOMAIN-SUFFIX,cdn.qd.je
-DOMAIN-SUFFIX,cdn6.cc.cd
+# 港台 RTHK：Akamai 按地区封锁，需香港节点放行
+DOMAIN,rthktv31-live.akamaized.net
+DOMAIN,rthktv32-live.akamaized.net
+DOMAIN,rthktv33-live.akamaized.net
+DOMAIN,rthktv34-live.akamaized.net
+DOMAIN,rthktv35-live.akamaized.net
+# 境外源站（印尼 / 香港 HKBN / 俄罗斯）
+IP-CIDR,103.172.187.30/32,no-resolve
+IP-CIDR,202.69.67.66/32,no-resolve
+IP-CIDR,103.58.160.157/32,no-resolve
+DOMAIN-SUFFIX,mediacdn.ru
